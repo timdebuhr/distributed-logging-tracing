@@ -34,3 +34,12 @@ release.properties
 # Frontend Build and Module folder
 /frontend-react/build/
 /frontend-react/node_modules/
+
+# IntelliJ
+.idea
+*.ipr
+*.iml
+*.iws
+
+# OSX
+.DS_Store
