@@ -6,7 +6,7 @@
   <groupId>de.tdbit.presentations</groupId>
   <artifactId>order-service-quarkus</artifactId>
   <version>1.0.0-SNAPSHOT</version>
-  <name>TdB IT - WJAX Logging Tracing - Order Service Quarkus</name>
+  <name>TdB IT - Distributed Logging Tracing - Order Service Quarkus</name>
 
   <properties>
     <compiler-plugin.version>3.11.0</compiler-plugin.version>
