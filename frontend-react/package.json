@@ -1,5 +1,5 @@
 {
-  "name": "workshop-springboot",
+  "name": "dlt-workshop",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
@@ -7,7 +7,7 @@
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
     "semantic-ui-css": "^2.5.0",
-    "semantic-ui-react": "^2.1.4"
+    "semantic-ui-react": "^2.1.5"
   },
   "scripts": {
     "start": "react-scripts start",
