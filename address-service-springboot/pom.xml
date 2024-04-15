@@ -24,8 +24,8 @@
 		<maven.compiler.target>${java.version}</maven.compiler.target>
 		<slf4j.version>2.0.9</slf4j.version>
 		<springdoc.version>2.2.0</springdoc.version>
-		<junit-jupiter.version>5.9.3</junit-jupiter.version>
-		<junit-mockito.version>5.4.0</junit-mockito.version>
+		<junit-jupiter.version>5.10.2</junit-jupiter.version>
+		<junit-mockito.version>5.7.0</junit-mockito.version>
 		<junit-wiremock.version>2.27.2</junit-wiremock.version>
 	</properties>
 
