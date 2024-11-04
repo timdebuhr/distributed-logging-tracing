@@ -2,8 +2,9 @@
 <Configuration>
     <Appenders>
         <Console name="Console" target="SYSTEM_OUT">
+            <!-- pattern="%d{ISO8601} {%-5level} [%t] [trace_id=%X{trace_id}, span_id=%X{span_id}, trace_flags=%X{trace_flags}] %C{1.}: %msg%n%throwable" charset="UTF-8"/> -->
             <PatternLayout
-                    pattern="%d{ISO8601} {%-5level} [%t] %C{1.}: %msg%n%throwable" charset="UTF-8"/>
+                    pattern="%d{ISO8601} {%-5level} [%t] [trace_id=%X{trace_id}, span_id=%X{span_id}, trace_flags=%X{trace_flags}] %C{1.}: %msg%n%throwable" charset="UTF-8"/>
         </Console>
     </Appenders>
 

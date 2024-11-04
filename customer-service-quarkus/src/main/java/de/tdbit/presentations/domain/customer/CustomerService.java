@@ -32,6 +32,7 @@ public class CustomerService {
         return customers;
     }
 
+    @WithSpan
     public Customer get(String customerNumber) {
         Optional<Customer> customerOptional = repository.getCustomer(customerNumber);
         if (customerOptional.isEmpty()) {
