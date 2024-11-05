@@ -50,3 +50,4 @@ release.properties
 
 # Docker
 .dockerignore
+docker-compose-*.yaml
