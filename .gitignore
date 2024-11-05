@@ -44,3 +44,9 @@ release.properties
 # OSX
 .DS_Store
 */.DS_Store
+
+# DIR env
+.envrc
+
+# Docker
+.dockerignore
