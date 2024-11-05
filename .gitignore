@@ -33,7 +33,7 @@ release.properties
 
 # Frontend Build and Module folder
 /frontend-react/build/
-/frontend-react/node_modules/
+/frontend-react/node_modules/*
 
 # IntelliJ
 .idea
